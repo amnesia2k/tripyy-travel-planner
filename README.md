@@ -14,7 +14,7 @@ Tripyy is a feature-rich web application designed to streamline and enhance the 
 ## Tech Stack
 
 - **Frontend:** React, Tailwind CSS, Shadcn/UI
-- **Backend:** Google Gemini API for AI-powered recommendations and real-time data
+- **Backend:** Google Gemini API for AI-powered recommendations and real-time data, Google FIrebase for Authentication
 - **Deployment:** Netlify
 
 ## Installation
@@ -30,7 +30,7 @@ Follow the steps below to set up the project locally:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd travel-planner
+   cd tripyy-travel-planner
    ```
 
 3. **Install dependencies:**
@@ -46,7 +46,7 @@ Follow the steps below to set up the project locally:
    ```
 
 5. **Access the app:**
-   Open [http://localhost:5173](http://localhost:5173) in your browser.
+   Open [http://localhost:9000](http://localhost:9000) in your browser.
 
 ## Usage
 
@@ -89,7 +89,7 @@ Contributions are welcome! To contribute:
    ```
 3. Commit your changes and push to your branch:
    ```bash
-   git push origin feature-name
+   git push -u origin feature-name
    ```
 4. Open a pull request.
 
