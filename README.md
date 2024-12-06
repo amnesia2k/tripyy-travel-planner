@@ -78,6 +78,7 @@ The app integrates the **Google Gemini API** to power features such as:
 - Natural language processing for seamless user interaction.
 - Real-time travel and location-based data.
 
+
 ## UI
 
 ![Travel Planner UI](./src/assets/test.png "Sample UI of Travel Planner")
