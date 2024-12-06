@@ -24,7 +24,7 @@ Follow the steps below to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/amnesia2k/travel-planner.git
+   git clone https://github.com/amnesia2k/tripyy-travel-planner.git
    ```
 
 2. **Navigate to the project directory:**
