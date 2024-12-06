@@ -22,21 +22,25 @@ Tripyy is a feature-rich web application designed to streamline and enhance the 
 Follow the steps below to set up the project locally:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/amnesia2k/travel-planner.git
    ```
 
 2. **Navigate to the project directory:**
+
    ```bash
    cd travel-planner
    ```
 
 3. **Install dependencies:**
+
    ```bash
    npm install
    ```
 
 4. **Run the development server:**
+
    ```bash
    npm run dev
    ```
@@ -97,5 +101,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
+- **Project Documentation:** [Tripyy Documentation](https://docs.google.com/document/d/1q_Gc8wkJJfybNzDrqdFjBqnnXI268CSfgbt_gwGO5aE/edit?usp=sharing)
 - **Email:** tilewaolatoye17@gmail.com
 - **GitHub:** [amnesia2k](https://github.com/amnesia2k)
